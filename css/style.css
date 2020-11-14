@@ -1,0 +1,63 @@
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.main {
+  padding: 30px;
+}
+.card {
+  margin-bottom: 20px;
+}
+.daniel {
+  background-color: hsl(263, 55%, 52%);
+  background-image: url("../images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.rounded-circle {
+  border: 2px solid hsl(0, 0%, 81%);
+  margin-right: 15px;
+}
+.purple {
+  border: 2px solid hsl(263, 55%, 52%);
+}
+.title-image {
+  display: flex;
+}
+.card-title {
+  font-size: 0.93rem;
+  padding: 0;
+  margin-bottom: 7px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 500;
+}
+.card-subtitle {
+  font-size: 0.75rem;
+  padding: 0;
+  color: hsl(0, 0%, 100%);
+  opacity: 50%;
+}
+.text {
+  color: hsl(0, 0%, 100%);
+  padding-top: 10px;
+  font-weight: 600;
+  font-size: 17px;
+}
+.review-text {
+  color: hsl(0, 0%, 100%);
+  opacity: 70%;
+  font-size: 0.81rem;
+}
+.jonathan {
+  background-color: hsl(217, 19%, 35%);
+}
+.kira {
+  background-color: hsl(0, 0%, 100%);
+}
+.patrick {
+  background-color: hsl(219, 29%, 14%);
+}
+.black {
+  color: hsl(217, 19%, 35%);
+}
