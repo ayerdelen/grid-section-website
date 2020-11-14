@@ -1,4 +1,4 @@
-# Frontend Mentor - Testimonials grid section
+# Frontend Mentor - Testimonials grid section (https://ayerdelen.github.io/grid-section-website/)
 
 ![](images/secreenshot.png)
 
